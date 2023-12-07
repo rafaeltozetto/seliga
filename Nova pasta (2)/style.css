@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "inter" , sans-serif;
+}
+
+header{
+    background-color: rgb(119, 207, 19);
+    box-shadow: 0px 3px 10px #464646;
+
+}
+
+.never-bar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.5rem 6rem;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.logo h1{
+    color: blue;
+}
+
+.nevel-list{
+    display: flex;
+    align-items: center;
+}
+
+.nevel-list ul{
+    display: flex;
+    justify-content: center;
+    list-style: ;
+}
+
+.never-item{
+    margin: 0 15px;
+}
+
+.never-link{
+    text-decoration: none;
+    font-size: 1.15rem;
+    color: aliceblue;
+    font-weight: 400;
+}
+
+.loguim-bootom button{
+    border: none;
+    background-color: #0187a7;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.loguim-bootom button{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
